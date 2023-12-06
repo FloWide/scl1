@@ -1,2 +1,2 @@
 # scl1
-BDCL public release repository
+SCL public release repository
